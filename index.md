@@ -14,7 +14,10 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+{% include 04-lists.md %} 
+- :Heart: Books
+- :Heart: Travelling
+- :Heart: Movies
 
 <br>
 
