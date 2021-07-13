@@ -1,0 +1,3 @@
+- Can create **_strategies_**
+- Can write **_technical and non-technical copy_**
+- Can create **_social media posts_**

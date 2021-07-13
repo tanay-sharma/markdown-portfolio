@@ -12,3 +12,13 @@
 
 {% include 03-links.md %}
 
+<br>
+
+{% include 04-lists.md %} 
+- :Heart: Books
+- :Heart: Travelling
+- :Heart: Movies
+
+<br>
+
+{% include 05-emphasis.md %}
