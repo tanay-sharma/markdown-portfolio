@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Can create **_strategies_**
+- Can write **_technical and non-technical copy_**
+- Can create **_social media posts_**
